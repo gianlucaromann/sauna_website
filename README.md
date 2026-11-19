@@ -16,6 +16,7 @@ automatisch erkannten Sauna-Sessions.
 .htaccess                 Sicherheit, HTTPS, Caching
 index.php                 Hauptseite (Gerüst, Inhalte lädt das JavaScript)
 login.php / logout.php    Optionaler Passwortschutz
+manifest.webmanifest      App-Icon und Name für den Smartphone-Startbildschirm
 config.sample.php         Vorlage → als config.php speichern und ausfüllen
 setup.sql                 Tabellen anlegen (phpMyAdmin)
 generate_testdata.php     Testdaten erzeugen (nach dem Testen löschen)
